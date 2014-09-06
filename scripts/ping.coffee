@@ -24,5 +24,4 @@ module.exports = (robot) ->
     msg.send "Goodbye, cruel world."
     process.exit 0
 
-  robot.hear /1000ch/, (msg) ->
-    msg.send "hello 1000ch"
+
